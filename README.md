@@ -1,4 +1,4 @@
-# ShopSphere – Responsive E-Commerce Website
+# Anon – Responsive E-Commerce Website
 
 ShopSphere is a responsive front-end e-commerce website template designed using **HTML5** and **CSS3**.  
 It provides a complete user interface for an online shopping platform, including product displays, categories, banners, blog posts, and a cart section.
