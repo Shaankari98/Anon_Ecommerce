@@ -35,11 +35,6 @@ anon-ecommerce-website-master/
 - **SVG Icons**
 - **Responsive Web Design (RWD)** techniques
 
-## 📌 Future Improvements
-Add JavaScript for interactivity (search, cart updates, animations).
-Connect with a backend for real product data and authentication.
-Add payment gateway integration.
-
 ## 📜 License
 This project is open-source and available under the MIT License.
 
