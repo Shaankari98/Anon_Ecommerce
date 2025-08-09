@@ -43,8 +43,7 @@ Add payment gateway integration.
 ## 📜 License
 This project is open-source and available under the MIT License.
 
-If you want, I can also **insert product screenshots and demo links** in the README so it looks more appealing on GitHub. That will make it look professional and recruiter-friendly.  
-Do you want me to go ahead and prepare that with images from your project? ​:contentReference[oaicite:0]{index=0}​
+
 
 
 
